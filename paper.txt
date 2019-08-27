@@ -1,0 +1,120 @@
+==================================================================================================
+AIOps Course
+https://netman.aiops.org/courses/advanced-network-management-spring2018-syllabus/
+==================================================================================================
+
+Book:
+dlbook_cn_v0.5-beta.pdf
+Neural Network Methods for Natural Language Processing.pdf
+Robert Sedgewick and Kevin Wayne - Algorithms, 4th edition.pdf
+ScipyLectures-simple.pdf
+understanding-machine-learning-theory-algorithms.pdf
+math-basics.pdf
+
+==================================================================================================
+AI Reliability
+
+Paper:
+A Role-based Model for Analyzing Interpretable Machine Learning Systems.pdf
+Across the Stack Opportunities for Deep Learning Acceleration.pdf
+Adversarial Phenomenon from the Eyes of Bayesian Deep Learning.pdf
+AI Fairness 360_An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias.pdf
+An Answer Using Distributed Detection and Data Fusion Theory.pdf
+An End-To-End Machine Learning Pipeline That Ensures Fairness Policies.pdf
+Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies.pdf
+Analyzing Federated Learning through an Adversarial Lens.pdf
+Anytime Best+Depth-First Search for Bounding Marginal MAP.pdf
+Attacking Visual Language Grounding with Adversarial Examples_A Case Study on Neural Image Captioning.pdf
+Automated Test Generation to Detect Individual Discrimination in AI Models.pdf
+AutoZOOM_Autoencoder-based Zeroth Order Optimization Method for Attacking Blackbox Neural Networks.pdf
+Bayesian Hierarchical Dynamic Model for Human Action Recognition.pdf
+BlockDrop_Dynamic Inference Paths in Residual Networks.pdf
+CERTIFIED DEFENSES AGAINST ADVERSARIAL EXAMPLES.pdf
+Characterizing Audio Adversarial Examples Using Temporal Dependency.pdf
+CNN-Cert_An Efficient Framework for Certifying Robustness of Convolutional Neural Networks.pdf
+Collaborative Human-AI (CHAI)_Evidence-Based Interpretable Melanoma Classification in Dermoscopic Images.pdf
+Data Pre-Processing for Discrimination Prevention_Information-Theoretic Optimization and Analysis.pdf
+Deep Neural Networks are Easily Fooled.pdf
+Defensive Quantization_When Efficiency Meets Robustness.pdf
+DELVING INTO TRANSFERABLE ADVERSARIAL EXAMPLES AND BLACK-BOX ATTACKS.pdf
+Design AI so that it's fair.pdf
+EAD_Elastic-Net Attacks to Deep Neural Networks via Adversarial Examples.pdf
+Efficient Neural Network Robustness Certification with General Activation Functions.pdf
+Efficiently Processing Temporal Queries on Hyperledger Fabric.pdf
+Ensemble Adversarial Training Attacks and Defenses.pdf
+Evaluating the Robustness of Neural Networks_An Extreme Value Theory Approach.pdf
+Experimental_Security_Research_of_Tesla_Autopilot.pdf
+EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES.pdf
+Explanations based on the Missing_Towards Contrastive Explanations with Pertinent Negatives.pdf
+Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model.pdf
+Exploring the Hyperparameter Landscape of Adversarial Robustness.pdf
+FactSheets_Increasing Trust in AI Services through Supplier's Declarations of Conformity.pdf
+Fairness GAN.pdf
+Fairness GAN_Generating Datasets with Fairness Properties using a Generative Adversarial Network.pdf
+Fairness in Deceased Organ Matching.pdf
+Improving Simple Models with Confidence Profiles.pdf
+Interactive Visual Exploration of Latent Space (IVELS) for Peptides Auto-Encoder Model Selection,Deep Generative Models.pdf
+Intriguing properties of neural networks.pdf
+Judging a Book by its Description_Analyzing Gender Stereotypes in the Man Bookers Prize Winning Fiction.pdf
+Kernel-Based Reinforcement Learning in Robust Markov Decision Processes.pdf
+L2 - Nonexpansive Neural Networks.pdf
+Maxout Networks.pdf
+Modeling Epistemological Principles for Bias Mitigation in AI Systems_An Illustration in Hiring Decisions.pdf
+Optimized Pre-Processing for Discrimination Prevention.pdf
+Protecting Intellectual Property of Deep Neural Networks with Watermarking.pdf
+Provenance in context of Hadoop as a Service (HaaS) - State of the Art and Research Directions.pdf
+PROVEN_Verifying Robustness of Neural Networks with a Probabilistic Approach.pdf
+Query-Efficient Hard-label Black-box Attack_An Optimization-based Approach.pdf
+Reliable AI that Develops the Society.pdf
+Reluplex_An Efficient SMT Solver for Verifying DNN.pdf
+Scalable Fair Clustering.pdf
+Seq2Seq-Vis_A Visual Debugging Tool for Sequence-to-Sequence Models.pdf
+Structured Adversarial Attack_Towards General Implementation and Better Interpretability.pdf
+Teaching Meaningful Explanations.pdf
+Threat of Adversarial Attacks on Deep Learning in Computer Vision_A Survey.pdf
+Towards Composable Bias Rating of AI Services.pdf
+Towards Composable Bias Rating of AI Systems.pdf
+Towards Deep Learning Models Resistant to Adversarial Attacks.pdf
+Understanding black-box predictions via influence functions.pdf
+Unravelling Robustness of Deep Learning based Face Recognition Against Adversarial Attacks.pdf
+人工智能深度学习算法可靠性评估方法.pdf
+
+==================================================================================================
+
+AIOps
+INTELLIGENT SAMPLING AND INFERENCE FOR MULTIPLE CHANGE POINTS IN EXTREMELY LONG DATA SEQUENCES.pdf
+ruptures: change point detection in Python.pdf
+1993 Detection of Abrupt Changes_Theory and Application.pdf
+2005 Changepoint Detection Survey.docx
+2007 A Review and Comparison of Changepoint Detection Techniques for Climate Data.pdf
+2008 A novel changepoint detection algorithm.pdf
+2008 Changepoint detection for time series prediction.pdf
+2009 Fast adaptive algorithms for abrupt change detection.pdf
+2012 A review of anomaly detection with focus on changepoint detection.pdf
+2014 changepoint_An R Package for Changepoint Analysis.pdf
+2014 Scalable Near Real-Time Failure Localization of Data Center Networks.pdf
+2015 Generic and Scalable Framework for Automated Time-series Anomaly Detection.pdf
+2016 A Survey of Methods for Time Series Change Point Detection.pdf
+2017 - Neural Network Methods for Natural Language Processing.pdf
+2017 Introduction to optimal changepoint detection algorithms.pdf
+2018 A review of change point detection methods.pdf
+A faster circular binary segmentation algorithm for the analysis of array data.pdf
+A pruned dynamic programming algorithm to recover the best segmentations change points.pdf
+An online algorithm for segmenting time series.pdf
+Analysis of Changepoint Models.pdf
+CN106685750A.pdf
+Combining Top-down and Bottom-up Segmentation.pdf
+Detecting multiple change-points in the mean of gaussian process by model selection.pdf
+Detection of changes in variance using binary segmentation and optimal.pdf
+Exact and efficient Bayesian inference for multiple changepoint problems.pdf
+Exploring the latent segmentation space for the assessment of multiple change point models.pdf
+Inference for single and multiple change-points in time series.pdf
+Inference for single and multiple change-points in time series.pdf
+Multiple Change-Point Estimation With a Total Variation Penalty.pdf
+Selective review of offline change point detection.pdf
+trainingMaterial20190520Ì·Ý¼.pptx
+Wild binary segmentation for multiple change-point detection.pdf
+WILD BINARY SEGMENTATION FOR MULTIPLE.pdf
+分段平稳时间序列中的多变点检测.pdf
+基于因子模型和动态规划的多元时间序列分段方法.pdf
+协助_双样本_t_检验.pdf
